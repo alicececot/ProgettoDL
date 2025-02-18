@@ -15,7 +15,13 @@ L'integrazione di LangChain, Google Generative AI (Gemini), RapidAPI e DuckDuckG
 - **DuckDuckGo Search API**: Per la ricerca delle attrazioni turistiche
 - **Pandas**: Per la formattazione e presentazione dei dati
 - **dotenv**: Per la gestione delle variabili d'ambiente
+- 
+## Esempi di Query
+L'assistente di viaggio può rispondere a richieste formulate in linguaggio naturale come:
 
+* Search for a flight from Rome to Madrid from March 7th, 2025 to March 9th, 2025.*
+* Show me available flights from Milan to London from September 12th, 2025 to September 18th, 2025.*
+  
 ## Configurazione delle Variabili d'Ambiente
 
 L'assistente richiede un file `.env` contenente le chiavi API necessarie per funzionare correttamente. Crea un file `.env` nella root del progetto e aggiungi:
@@ -24,8 +30,3 @@ L'assistente richiede un file `.env` contenente le chiavi API necessarie per fun
 GEMINI_API_KEY=tuo_api_key
 RAPID_API_KEY=tuo_api_key
 
-## Esempi di Query
-L'assistente di viaggio può rispondere a richieste formulate in linguaggio naturale come:
-
-* Search for a flight from Rome to Madrid from March 7th, 2025 to March 9th, 2025. *
-* Show me available flights from Milan to London from September 12th, 2025 to September 18th, 2025. *
