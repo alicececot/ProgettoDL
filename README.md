@@ -19,8 +19,8 @@ L'integrazione di LangChain, Google Generative AI (Gemini), RapidAPI e DuckDuckG
 ## Esempi di Query
 L'assistente di viaggio può rispondere a richieste formulate in linguaggio naturale come:
 
-_ Search for a flight from Rome to Madrid from March 7th, 2025 to March 9th, 2025._
-_ Show me available flights from Milan to London from September 12th, 2025 to September 18th, 2025._
+*Search for a flight from Rome to Madrid from March 7th, 2025 to March 9th, 2025.*
+*Show me available flights from Milan to London from September 12th, 2025 to September 18th, 2025.*
   
 ## Configurazione delle Variabili d'Ambiente
 
